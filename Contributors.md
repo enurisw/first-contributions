@@ -32,7 +32,6 @@ MICHAL!
 - [Jaideep Kalagara](https://github.com/jaideep-kalagara)
 - [Musses Gebremariam](https://github.com/MosesSG)
 - [Greevan Hari] (https://github.com/GreevanHari)
-- [Enuri Wickramasinghe] (https://github.com/enurisw)
 - [myninjaway15](https://github.com/myninjaway15)
 - [Prem Kumar] (https://github.com/Premkumar1845)
 - [GettoDev] (https://github.com/GettoDev)
