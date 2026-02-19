@@ -57,6 +57,7 @@ MICHAL!
 - [Harrison Smith](https://github.com/hobbitual)
 - [Vaibhav Hample](https://github.com/Vaibhav-rgb45)
 - [Praseeda VL](https://github.com/praseeda-10)
+- [Hiruni Weerasinghe](https://github.com/Hiruni942)
 - [NigamTembhare](htps://github.com/Nigam09)
 [Shigeru Komatsu]
 - [Praneega G] (https://github.com/praneegagajendran-hub)
@@ -2358,6 +2359,7 @@ contribution by arshi
 - [Muhammad-Rakha7](https://github.com/Muhammad-Rakha7)
 - [Asiya Mujawar](https://github.com/asiyamujawar)
 - [Atuldeveloper24](https://github.com/Atuldeveloper24)
+[Abdul Rasik ]
 - [Emre Doğan](https://github.com/emredogan-cloud)
 - First contribution
 -[Min Ruan](https://github.com/Minminshh)
